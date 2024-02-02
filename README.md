@@ -26,4 +26,4 @@ Add **shad_Outline.gdshader** as the **next_pass** of the **material**, of **obj
 
 
 ### In short: ###
-Using vertex data is better for models with sharp edges, but normal data is better for models with rounded edges. Choose what suits your needs better.
+Using vertex data is better for models with sharp edges, but normal data is better for models with rounded edges (just my observations). Choose what suits your needs better.

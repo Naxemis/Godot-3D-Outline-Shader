@@ -3,7 +3,7 @@
 Simple 3D outline shader, which is easy to use.
 
 # How to use? #
-Add **shad_Outline.gdshader** as the **next_pass** of the **material**, of **object** you want **with outline** effect.
+Add **Outline.gdshader** as the **next_pass** of the **material**, of **object** you want **with outline** effect.
 ![Inspector Screenshot](https://i.imgur.com/Kzkprpe.png)
 
 # Options #

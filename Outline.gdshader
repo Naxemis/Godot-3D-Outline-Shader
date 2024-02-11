@@ -6,7 +6,6 @@ uniform bool useVertex = true; //use vertex or normal in calculating outline
 uniform float outlineThickness = 0.01; //thickness
 uniform vec4 outlineColor: source_color = vec4(0, 0, 0, 1); //outline color
 
-
 void vertex() {
 	if (enable) {
 		if (useVertex) {
